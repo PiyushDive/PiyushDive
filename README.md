@@ -1,4 +1,4 @@
-## Hi, I am [Piyush!](https://www.linkedin.com/in/piyush-dive/) Great to see you here! <img src="https://raw.githubusercontent.com/piyush-dive/piyush-dive/main/src/wave.gif" width="30px">
+## Hi, I am [Piyush!](https://www.linkedin.com/in/piyush-dive/) Great to see you here! <img src="https://raw.githubusercontent.com/PiyushDive/PiyushDive/main/src/wave.gif" width="30px">
 
 I am Piyush Dive, currently pursuing my Bcs degree in Computer Science from [Savitribai Phule Pune University](http://www.unipune.ac.in/). I am a tech enthusiast who loves to code in Python. When I am not working I like to play with my pet dog 'Nobi'.
 
