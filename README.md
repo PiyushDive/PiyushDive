@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 <br><hr>
 <img align="left" alt="Piyush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PiyushDive&show_icons=true&hide_border=true&theme=dark&count_private=true" />
 
-<br><hr>
+<br>
 <!-- Languages -->
-<img align="left" alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushDive&layout=compact&theme=dark" />
+<img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushDive&layout=compact&theme=dark" />
