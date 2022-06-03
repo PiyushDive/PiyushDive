@@ -28,8 +28,8 @@ I am Piyush Dive, currently pursuing my Bcs degree in Computer Science from [Sav
 
 ### 👨🏻‍💻 Coding Profiles
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Piyush_Dive)
-[![Code Studio](https://img.shields.io/badge/Code%20Studio-Piyush%20Dive-orange)]([https://www.hackerrank.com/Piyush_Dive](https://www.codingninjas.com/codestudio/profile/93522874-06dc-4673-9aba-055cc57e6f00))
-
+[![Code Studio](https://img.shields.io/badge/Code%20Studio-Piyush%20Dive-orange)](https://www.codingninjas.com/codestudio/profile/93522874-06dc-4673-9aba-055cc57e6f00)
+[![Leetcode](https://img.shields.io/badge/-Leetcode-2EC866?style=flat-square&logo=Leetcode&logoColor=critical)](https://leetcode.com/piyush_dive/)
 
 
 
