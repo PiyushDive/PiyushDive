@@ -5,7 +5,7 @@ I am Piyush Dive, currently pursuing my Bcs degree in Computer Science from [Sav
 ### Connect with me 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piyushdive835@gmail.com)](mailto:piyushdive835@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyush-dive/)](https://www.linkedin.com/in/piyush-dive/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/piyushdive/)](https://instagram.com/piyushdive)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/piyushdive/)](https://instagram.com/piyush_dive_xd_)
 
 <!-- Activity Graph -->
 <!-- [![Piyush's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=PiyushDive&theme=xcode)](https://github.com/PiyushDive) -->
