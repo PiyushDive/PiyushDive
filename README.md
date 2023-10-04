@@ -9,7 +9,7 @@ I am Piyush Dive, currently pursuing my Bcs degree in Computer Science from [Sav
 
 <!-- Activity Graph -->
 <!-- [![Piyush's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=PiyushDive&theme=xcode)](https://github.com/PiyushDive) -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PiyushDive) 
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PiyushDive) -->
 
 
 
@@ -43,6 +43,8 @@ I am Piyush Dive, currently pursuing my Bcs degree in Computer Science from [Sav
 <img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <br>
 <br>
+
+[![My Holopin Badge](https://img.shields.io/badge/-Holopin_Badge-blue?style=flat-square&logo=My_Holopin_Badge&logoColor=white)](https://holopin.io/@piyushdive#badges)
 
 <!-- <table>
 <tr>
