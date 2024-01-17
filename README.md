@@ -25,7 +25,7 @@ I am Piyush Dive, currently pursuing my Bcs degree in Computer Science from [Sav
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=PiyushDive&show_icons=true&theme=dark" width = 400 />
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=PiyushDive&theme=dark&hide_border=true" width = 400 />
+<!--   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=PiyushDive&theme=dark&hide_border=true" width = 400 /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushDive&theme=dark&hide_border=true" />
 </p>
 
