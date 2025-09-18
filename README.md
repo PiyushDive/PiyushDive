@@ -1,6 +1,6 @@
 ## Hey there, It's [Piyush!](https://www.linkedin.com/in/piyush-dive/) Great to see you here!  👋
 
-I am Piyush Dive, currently pursuing my Bcs degree in Computer Science from [Savitribai Phule Pune University](http://www.unipune.ac.in/). I am a tech enthusiast who loves to code in Python & C++. When I am not working I like to play with my pet dog 'Nobi'.
+I'm Piyush Dive, currently pursuing my BS degree in Data Science from IIT Madras. I'm a tech enthusiast who loves to code in Python & C++. When I am not working I like to play with my pet dog 'Nobi'.
 
 ### Connect with me 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piyushdive835@gmail.com)](mailto:piyushdive835@gmail.com)
